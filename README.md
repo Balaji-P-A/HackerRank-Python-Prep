@@ -1,3 +1,6 @@
+- Progress badge (manual or auto-updated): `![Progress](https://img.shields.io/badge/Progress-XX%25-brightgreen)`  
+- Python version: `![Python](https://img.shields.io/badge/python-3.11-blue?logo=python)`  
+- Tests: `![pytest](https://img.shields.io/badge/tests-passing-brightgreen)` (update via CI)
 # HackerRank-Python-Prep
 Clean, well-structured Python code for all practice problems, covering data types, strings, sets, math, functions, OOP, and problem-solving. Built to document my learning progress and help others preparing for Python assessments.
 # HackerRank Python Playbook 🐍📘
